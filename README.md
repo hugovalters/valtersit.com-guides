@@ -1,4 +1,5 @@
 # Valters IT Hub — Knowledge Base
+[![Listed on ValtersIT IT Projects](https://www.valtersit.com/it-projects/badge.svg)](https://www.valtersit.com/it-projects/)
 
 > Cybersecurity, homelab & DevOps guides by [Valters IT Hub](https://www.valtersit.com).
 > Full articles with examples, diagrams and configs: **[valtersit.com](https://www.valtersit.com)**
